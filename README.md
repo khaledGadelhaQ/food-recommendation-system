@@ -12,3 +12,11 @@ taste! 😊
 
 To use this program you will need to install DOSBox and Prolog.
 
+<hr>
+
+## Screenshots from the program:
+
+<img src= 'https://github.com/khaledGadelhaQ/food-recommendation-system/blob/main/screenshots/demo1.png' alt= 'Demo1'>
+
+<img src= 'https://github.com/khaledGadelhaQ/food-recommendation-system/blob/main/screenshots/demo2.png' alt= 'Demo2'>
+
